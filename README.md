@@ -1,5 +1,5 @@
 ## Hello world ✌
-Eu sou a Anna Isabelle, estudante de Desenvolvimeno Web, focado em Front-end pela Laboratória!
+Eu sou a Anna Isabelle, estudante de Desenvolvimento Web, focado em Front-end pela Laboratória!
 <div align="center">
   <a href="https://github.com/AnnaIsah">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnnaIsah&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
