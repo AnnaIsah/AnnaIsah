@@ -1,4 +1,4 @@
-## Hello Word ✌
+## Hello world ✌
 Eu sou a Anna Isabelle, estudante de Desenvolvimeno Web, focado em Front-end pela Laboratória!
 <div align="center">
   <a href="https://github.com/AnnaIsah">
