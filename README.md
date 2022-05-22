@@ -3,8 +3,7 @@ Eu sou a Anna Isabelle, estudante de Desenvolvimeno Web, focado em Front-end pel
 <div align="center">
   <a href="https://github.com/AnnaIsah">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnnaIsah&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaIsah&layout=compact&langs_count=7&theme=panda"/>    
-</div>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaIsah&layout=compact&langs_count=7&theme=panda"/> -->
   
 <div style="display: inline_block"><br>
  <img align="center" alt="Anna-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
