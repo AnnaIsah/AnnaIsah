@@ -1,6 +1,7 @@
 ## Hello world, I'am Anna Isabelle ✌
 I'm a web development student, graduated from the bootcamp of Laboratória 👩‍💻
-<div align="center">
+ <img align="right"  alt="avatar" height="180" width="180" src="https://i.pinimg.com/originals/ed/da/68/edda68f51554e1885828575aa547956b.jpg">
+<div align="left">
   <a href="https://github.com/AnnaIsah">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnnaIsah&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaIsah&layout=compact&langs_count=7&theme=panda"/> -->
