@@ -1,5 +1,5 @@
 ## Hello world
-Sou analista e desenvolvedora de sistemas, atuo com ênfase em desenvolvendo sites web visando atingir o melhor resultado possível atrelado com meus conhecimentos de UX Design, buscando novos desafios e melhorar minhas soft e hard skills, sigo me aventurando no mundo da tecnologia 👩‍💻
+Eu sou a Anna, sou analista e desenvolvedora de sistemas, atuo com ênfase em desenvolvendo sites web visando atingir o melhor resultado possível atrelado com meus conhecimentos de UX Design, buscando novos desafios e melhorar minhas soft e hard skills, sigo me aventurando no mundo da tecnologia 👩‍💻
 <!-- <img align="right"  alt="avatar" height="180" width="180" src="https://i.pinimg.com/originals/ed/da/68/edda68f51554e1885828575aa547956b.jpg"> -->
 <div align="left">
   <a href="https://github.com/AnnaIsah">
